@@ -1,0 +1,6 @@
+{
+  "name": "MassiveMark Playground",
+  "description": "Convert AI-generated Markdown into professionally formatted DOCX, PDF, and Google Docs with preserved editable LaTeX math equations, tables, and syntax-highlighted code blocks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
